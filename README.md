@@ -60,7 +60,7 @@ A curated list of repositories related to PIV (particle image velocimetry).
 - [William Thielicke / PIVLab](https://github.com/shrediquette/pivlab) PIVLab ![matlab]
 - [
 Gerber van der Graaf / GPIV](http://gpiv.sourceforge.net) GPIV ![cpp]
-
+- [fluiddyn / fluidimage](https://foss.heptapod.net/fluiddyn/fluidimage/): Asynchronously parallelized libre framework for pre-processing, velocimetry and post-processing of large series of images. ![python]
 
 ## 4. Particle tracking
 - [jonnyhigham / PTVResearch](https://github.com/jonnyhigham/PTVResearch): Robust particle tracking for all types of research applications (Lucas Kanade) ![matlab]
@@ -69,6 +69,8 @@ Gerber van der Graaf / GPIV](http://gpiv.sourceforge.net) GPIV ![cpp]
 - [Part2Track / Part2Track](https://github.com/Part2Track/Part2Track): A MATLAB package for double frame and time resolved Particle Tracking Velocimetry ![matlab]
 - [adavradou / Particle-Tracking-Velocimetry](https://github.com/adavradou/Particle-Tracking-Velocimetry) (extends http://site.physics.georgetown.edu/matlab/code.html) ![matlab]
 - [JHU-NI-LAB / OpenLPT_Shake-The-Box](https://github.com/JHU-NI-LAB/OpenLPT_Shake-The-Box): Open-source C++ code for Shake-the-box, particle tracking algorithm ![cpp] ![matlab]
+- [OpenPTV / openptv](https://github.com/openptv/openptv) OpenPTV - open source 3D-PTV software ![cpp]
+- [OpenPTV / pyptv](https://github.com/openptv/pyptv) Python GUI for OpenPTV - open source three-dimensional particle tracking velocimetry ![python]
 
 
 ## 5. Post-processing
@@ -83,6 +85,8 @@ Gerber van der Graaf / GPIV](http://gpiv.sourceforge.net) GPIV ![cpp]
 - [fabrylab / pyTFM](https://github.com/fabrylab/pyTFM): Two dimensional particle image velocimetry, traction force microscopy and monolayer stress microscopy (tracking force microscopy) ![python]
 - [rplab / Ganz-Baker-Image-Velocimetry-Analysis](https://github.com/rplab/Ganz-Baker-Image-Velocimetry-Analysis): A set of Matlab functions for analyzing image velocimetry data on biological motility (PIVLab postprocessing) ![matlab] ![cpp] ![python]
 - [mathLab / PyDMD](https://github.com/mathLab/PyDMD):  Python Dynamic Mode Decomposition ![python]
+- [Moisy / PIVMAT](https://www.mathworks.com/matlabcentral/fileexchange/10902-pivmat-4-10) Matlab toolbox for post-processing PIV data ![matlab]
+- [alexlib / pivpy](https://github.com/alexlib/pivpy): PIVPy - Python clone of PIVMAT ![python]
 
 ## 6. Neural Networks, Machine learning, AI
 
